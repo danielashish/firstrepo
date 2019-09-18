@@ -1,3 +1,0 @@
-create dir file = mkdir [dir name]
-and store data inthat file
-save and copy to some other dir and delete and move
